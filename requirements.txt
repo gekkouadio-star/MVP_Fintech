@@ -1,0 +1,17 @@
+#pip freeze > requirements.txt
+# Serveur API
+fastapi
+uvicorn
+
+# Interface UI
+streamlit
+
+# Traitement de données
+pandas
+openpyxl
+
+# Client HTTP
+requests
+
+# Utilitaires système (recommandés)
+watchdog
